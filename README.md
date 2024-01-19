@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Mohamed Doukkani</h1>
-<h3 align="center">Cybersecurity Student | CTF player | Developper</h3>
+<h3 align="center">CS Student | Cybersecurity Specialist | CTF player</h3>
 
 
 - 🔭 I’m currently a Student on **Computer Science**
